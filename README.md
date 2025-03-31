@@ -77,7 +77,7 @@ Tenho 23 anos e sou de Belém do Pará. Estou estudando desenvolvimento em Java 
   />
 
 <img 
-      align="left" 
+      align="right" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bssallex&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
