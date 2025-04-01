@@ -4,6 +4,9 @@
 
 Tenho 23 anos e sou de Belém do Pará. Estou estudando desenvolvimento em Java com SpringBoot, pelo curso "Java10x" do Fiasco. Sou músico, multi instrumentista e já fiz 1 semestre do curso de licenciatura em Física, pela Universidade Fedaral do Pará(UFPA). Atualmente estou tentando uma vaga na área de TI.
 
+  <a href="https://instagram.com/Bssallex" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
