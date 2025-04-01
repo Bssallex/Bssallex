@@ -8,7 +8,7 @@ Tenho 23 anos e sou de Belém do Pará. Estou estudando desenvolvimento em Java 
 
 <img 
     align="left" 
-    alt="HTML"
+    alt="Html"
     title="HTML" 
     width="48px" 
     style="padding-right: 10px;" 
@@ -16,7 +16,7 @@ Tenho 23 anos e sou de Belém do Pará. Estou estudando desenvolvimento em Java 
 />
 <img 
     align="left" 
-    alt="CSS" 
+    alt="Css" 
     title="CSS"
     width="48px" 
     style="padding-right: 10px;" 
