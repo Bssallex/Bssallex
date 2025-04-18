@@ -1,10 +1,12 @@
-# Alex Bruno 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000">
 
-**`Desenvolvedor Back-end`**
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=2000&pause=150&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=100&lines=Hey!+I'm+Alex+Bruno!;+Back-End+Developer)](https://git.io/typing-svg)
 
-Sou músico, tenho 23 anos, moro em Belém do Pará e atualmente estudando desenvolvimento em Java com SpringBoot
-
-  <a href="https://instagram.com/javalex.println" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<p align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bssallex&theme=transparent&bg_color=000000&border_color=a95178&show_icons=true&icon_color=a95178&title_color=a95178&text_color=FFF"/>
+    
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bssallex&layout=compact&langs_count=7&bg_color=000000&border_color=a95178&title_color=a95178&text_color=FFF&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&hide=css,html,blade" />
+</p>
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=2000&pause=150&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=57&lines=Stacks)](https://git.io/typing-svg)
 <p align="center">
@@ -12,15 +14,5 @@ Sou músico, tenho 23 anos, moro em Belém do Pará e atualmente estudando desen
     <img src="https://skillicons.dev/icons?i=java,spring,postgresql,mysql,git,docker&theme=dark" />
  </a>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&section=footer">
 
-### 📊 Estatísticas
-
-<p>
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bssallex&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=7" 
-  />
-
-</p>
